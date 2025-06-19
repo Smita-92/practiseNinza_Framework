@@ -1,1 +1,0 @@
-package com.ninza.hrm.api.basecalss;
